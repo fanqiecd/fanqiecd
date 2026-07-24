@@ -26,11 +26,9 @@ I build small, complete systems across game mods and the web: practical behavior
 
 ## 🛠️ Capabilities / 能力地图
 
-| 方向 | 能做什么 | 真实输出 |
-|:--|:--|:--|
-| **Game Mod Systems** | 连接 Lua 玩法逻辑、SQL 数据与游戏内 UI；处理兼容和本地化 | `BP_ResourcePlanter` |
-| **Web Tool Shipping** | 用 Vue / JavaScript / CSS 构建并部署浏览器工具 | `EquipSheet` |
-| **Open Repository Craft** | 保持代码、使用说明、变更记录与公开入口一致 | GitHub repositories |
+- **Game Mod Systems** — 连接 Lua 玩法逻辑、SQL 数据与游戏内 UI，处理兼容和本地化。输出：[`BP_ResourcePlanter`](https://github.com/fanqiecd/BP_ResourcePlanter)
+- **Web Tool Shipping** — 用 Vue / JavaScript / CSS 构建并部署浏览器工具。输出：[`EquipSheet`](https://github.com/fanqiecd/EquipSheet)
+- **Open Repository Craft** — 保持代码、使用说明、变更记录与公开入口一致。输出：[GitHub repositories](https://github.com/fanqiecd?tab=repositories)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,vue,html,css,git,github,vscode,vercel&perline=9" alt="Lua, JavaScript, Vue, HTML, CSS, Git, GitHub, VS Code, and Vercel" />
