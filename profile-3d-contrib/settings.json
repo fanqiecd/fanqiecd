@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-tomato-workshop.svg",
+  "backgroundColor": "#0D1117",
+  "foregroundColor": "#FFF7ED",
+  "strongColor": "#FFC857",
+  "weakColor": "#8B949E",
+  "radarColor": "#FF8A3D",
+  "growingAnimation": true,
+  "contribColors": [
+    "#211816",
+    "#5B2018",
+    "#A93424",
+    "#E94B35",
+    "#FF8A3D"
+  ]
+}
