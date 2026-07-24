@@ -68,10 +68,6 @@ I build small, complete systems across game mods and the web: practical behavior
 
 ## 📊 GitHub Activity / 开发足迹
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanqiecd&theme=github_dark" width="100%" alt="fanqiecd GitHub contribution statistics" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fanqiecd/fanqiecd/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fanqiecd/fanqiecd/output/github-contribution-grid-snake.svg" />
