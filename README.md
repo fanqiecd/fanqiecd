@@ -27,7 +27,7 @@ I build small, complete systems across game mods and the web: practical behavior
 ## 🛠️ Capabilities / 能力地图
 
 - **Game Mod Systems** — 连接 Lua 玩法逻辑、SQL 数据与游戏内 UI，处理兼容和本地化。输出：[`BP_ResourcePlanter`](https://github.com/fanqiecd/BP_ResourcePlanter)
-- **Web Tool Shipping** — 用 Vue / JavaScript / CSS 构建并部署浏览器工具。输出：[`EquipSheet`](https://github.com/fanqiecd/EquipSheet)
+- **Web Tool Shipping** — 用 Vue / JavaScript / CSS 构建并部署浏览器工具。输出：[EquipSheet](https://equip-sheet.vercel.app)
 - **Open Repository Craft** — 保持代码、使用说明、变更记录与公开入口一致。输出：[GitHub repositories](https://github.com/fanqiecd?tab=repositories)
 
 <div align="center">
@@ -49,19 +49,18 @@ I build small, complete systems across game mods and the web: practical behavior
 
 **[View repository →](https://github.com/fanqiecd/BP_ResourcePlanter)**
 
-### [EquipSheet](https://github.com/fanqiecd/EquipSheet)
+### EquipSheet
 
 > **Vue Web Tool · [Open live tool ↗](https://equip-sheet.vercel.app)**
 
-一个使用 Vue、JavaScript 与 CSS 构建并部署到 Vercel 的公开工具项目。
+一个使用 Vue、JavaScript 与 CSS 构建并部署到 Vercel 的实用工具。源码暂未公开，线上工具可直接访问。
 
-**Verified stack:** Vue · JavaScript · CSS · HTML · **[View source →](https://github.com/fanqiecd/EquipSheet)**
+**Verified stack:** Vue · JavaScript · CSS · HTML · **[Try it live ↗](https://equip-sheet.vercel.app)**
 
 <details>
   <summary><strong>More repositories / 更多仓库</strong></summary>
   <br />
-  <a href="https://github.com/fanqiecd/PlayerSuperStart">PlayerSuperStart</a> ·
-  <a href="https://github.com/fanqiecd/hoi4_mod_copy">hoi4_mod_copy</a>
+  <a href="https://github.com/fanqiecd/PlayerSuperStart">PlayerSuperStart</a>
 </details>
 
 ## 📊 GitHub Activity / 开发足迹
