@@ -28,10 +28,11 @@ I build small, complete systems across game mods and the web: practical behavior
 
 - **Game Mod Systems** — 连接 Lua 玩法逻辑、SQL 数据与游戏内 UI，处理兼容和本地化。输出：[`BP_ResourcePlanter`](https://github.com/fanqiecd/BP_ResourcePlanter)
 - **Web Tool Shipping** — 用 Vue / JavaScript / CSS 构建并部署浏览器工具。输出：[EquipSheet](https://equip-sheet.vercel.app)
+- **Bot & Server Tools** — 用 Python 为 AstrBot 编写仓库监控与战团服务器查询插件。输出：[`astrbot_plugin_github_monitor`](https://github.com/fanqiecd/astrbot_plugin_github_monitor) · [`astrbot_plugin_warband_status`](https://github.com/fanqiecd/astrbot_plugin_warband_status)
 - **Open Repository Craft** — 保持代码、使用说明、变更记录与公开入口一致。输出：[GitHub repositories](https://github.com/fanqiecd?tab=repositories)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,vue,html,css,git,github,vscode,vercel&perline=9" alt="Lua, JavaScript, Vue, HTML, CSS, Git, GitHub, VS Code, and Vercel" />
+  <img src="https://skillicons.dev/icons?i=lua,js,vue,html,css,python,git,github,vscode,vercel&perline=10" alt="Lua, JavaScript, Vue, HTML, CSS, Python, Git, GitHub, VS Code, and Vercel" />
 </div>
 
 ## 🌱 Featured Builds / 精选作品
@@ -56,6 +57,11 @@ I build small, complete systems across game mods and the web: practical behavior
 一个使用 Vue、JavaScript 与 CSS 构建并部署到 Vercel 的实用工具。源码暂未公开，线上工具可直接访问。
 
 **Verified stack:** Vue · JavaScript · CSS · HTML · **[Try it live ↗](https://equip-sheet.vercel.app)**
+
+### AstrBot Plugins / 机器人与服务工具
+
+- [`astrbot_plugin_github_monitor`](https://github.com/fanqiecd/astrbot_plugin_github_monitor) — Python 插件，监控仓库的 Push、Commit、Issue 与 PR 活动，并向 AstrBot 会话发送文字或卡片汇报。
+- [`astrbot_plugin_warband_status`](https://github.com/fanqiecd/astrbot_plugin_warband_status) — Python 插件，在 AstrBot 中通过 `/warband` 查询《骑马与砍杀：战团》服务器状态。
 
 <details>
   <summary><strong>More repositories / 更多仓库</strong></summary>

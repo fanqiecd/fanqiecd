@@ -35,6 +35,8 @@ Require-Match $readme '把游戏里的想法与日常需求，做成真正可用
 Require-Match $readme 'Turning game ideas and everyday needs into practical mods and web tools' 'English positioning is missing.'
 Require-Match $readme 'https://github\.com/fanqiecd/BP_ResourcePlanter' 'BP_ResourcePlanter link is missing.'
 Require-Match $readme 'https://equip-sheet\.vercel\.app' 'EquipSheet live link is missing.'
+Require-Match $readme 'https://github\.com/fanqiecd/astrbot_plugin_github_monitor' 'GitHub monitor plugin link is missing.'
+Require-Match $readme 'https://github\.com/fanqiecd/astrbot_plugin_warband_status' 'Warband status plugin link is missing.'
 Require-Match $readme '源码暂未公开' 'EquipSheet should state that source is not public yet.'
 Require-Match $readme 'profile-tomato-workshop\.svg' 'The custom 3D contribution image is missing.'
 Require-Match $readme 'github-contribution-grid-snake-dark\.svg' 'The dark snake image is missing.'
